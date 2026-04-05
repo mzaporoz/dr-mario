@@ -47,8 +47,6 @@ This project implements a playable version of Dr. Mario using low-level programm
 
 ## How to Run
 
-## How to Run
-
 To run the game, use the Saturn (MIPS simulator) display tool with the following setup:
 
 1. Open the Bitmap Display in Saturn
