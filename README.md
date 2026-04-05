@@ -9,6 +9,9 @@ A recreation of the classic *Dr. Mario* game built in assembly, featuring real-t
 ## Overview
 This project implements a playable version of Dr. Mario using low-level programming concepts. It includes core gameplay systems such as movement, rotation, gravity, collision detecting, and line clearing, along with additional features like difficulty modes, pause functionality, a game over screen, sound effects, and background music.
 
+## Demo
+[![Watch Demo](screenshots/play-game.png)](demo/dr-mario-demo-no-sound.mov)
+
 ## Features
 
 ### Core Gameplay
@@ -80,3 +83,17 @@ To run the game, use the Saturn (MIPS simulator) display tool with the following
      - All viruses are cleared, or  
      - The bottle is blocked  
    - Press `Enter` to return to menu  
+
+## Screenshots
+
+### Level Select
+![Level Select](screenshots/level-select.png)
+
+### Gameplay
+![Gameplay](screenshots/play-game.png)
+
+### Pause Screen
+![Pause](screenshots/pause-game.png)
+
+### Game Over
+![Game Over](screenshots/game-over.png)
