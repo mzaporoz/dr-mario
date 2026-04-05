@@ -10,7 +10,7 @@ A recreation of the classic *Dr. Mario* game built in assembly, featuring real-t
 This project implements a playable version of Dr. Mario using low-level programming concepts. It includes core gameplay systems such as movement, rotation, gravity, collision detecting, and line clearing, along with additional features like difficulty modes, pause functionality, a game over screen, sound effects, and background music.
 
 ## Demo
-[![Watch Demo](screenshots/play-game.png)](demo/dr-mario-demo-no-sound.mov)
+[![Watch Demo](screenshots/play-game.png)](demo/dr-mario-demo-no-sound.mp4)
 
 ## Features
 
